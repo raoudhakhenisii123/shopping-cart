@@ -1,0 +1,14 @@
+ li :hover{
+ background-color: rgb(0, green, 0blue);
+border:none;
+}
+.menu >div >ul{
+
+    display:flex;
+
+justify-content: space-around;
+list-style: none;
+}
+body{
+   background-color:gray;
+}

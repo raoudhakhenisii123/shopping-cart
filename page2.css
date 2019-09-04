@@ -1,0 +1,29 @@
+.panier_dachat{
+width:10px;
+height: 0%
+}
+.container{
+display:flex;
+justify-content: space-between;
+}
+.shopping-item1{
+display:flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid gray;
+
+}
+.shopping-item2{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    
+    }
+    .shopping-item3{
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid gray;
+        
+        } 
